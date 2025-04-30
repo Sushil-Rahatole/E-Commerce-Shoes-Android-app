@@ -41,7 +41,7 @@ This project showcases my ability to deliver a full-fledged Android application 
 
 ## 📷 Screenshots
 
-![home_page](image.png)![shoes_listing](image-1.png)
+![home_page](image.png) ![shoes_listing](image-1.png) ![orders](image-2.png)
 
 ## 📦 Installation
 
